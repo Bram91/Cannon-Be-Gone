@@ -55,6 +55,13 @@ public class CannonBeGone extends Plugin
 			case ObjectID.DWARF_MULTICANNON_43027:
 			case ObjectID.DWARF_MULTICANNON_5975:
 			case ObjectID.DWARF_MULTICANNON_5976:
+			case ObjectID.CANNON_BASE:
+			case ObjectID.CANNON_BASE_43029:
+			case ObjectID.CANNON_STAND:
+			case ObjectID.CANNON_STAND_43030:
+			case ObjectID.CANNON_BARRELS:
+			case ObjectID.CANNON_BARRELS_43031:
+
 				client.getScene().removeGameObject(event.getGameObject());
 		}
 	}
