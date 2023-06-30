@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Cannon be gone
+Hides all cannons(including your own!)
